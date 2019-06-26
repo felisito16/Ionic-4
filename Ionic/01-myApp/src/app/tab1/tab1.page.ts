@@ -12,13 +12,13 @@ export class Tab1Page implements OnInit {
     let numero = 10;
 
 // tslint:disable-next-line: no-debugger
-    debugger;
+    /* debugger; */
 
-    numero += 10
+    numero += 10;
 
-    numero *= 2
+    numero *= 2;
 
-    numero -= 10
+    numero -= 10;
 
     console.log({ numero });
   }
